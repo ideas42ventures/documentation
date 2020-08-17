@@ -4,6 +4,7 @@ Documentation about how we work at the Venture Studio and recommendations for bu
 
 ## Topic Areas
 
-- [Internal Tools](internal-tools)
-- [Design](design)
-- [Engineering](engineering)
+- [Efforts](efforts): What we're working on
+- [Internal Tools](internal-tools): Tools we use to work
+- [Design](design): Design tools, best practices, and resources
+- [Engineering](engineering): Engineering tools, best practices, and resources
