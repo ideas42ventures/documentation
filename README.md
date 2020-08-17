@@ -4,4 +4,6 @@ Documentation about how we work at the Venture Studio and recommendations for bu
 
 ## Topic Areas
 
+- [Internal Tools](internal-tools)
+- [Design](design)
 - [Engineering](engineering)
