@@ -1,6 +1,6 @@
 # Front-end Foundation
 
-This is an outline of topics, ideas, and resources helpful in gaining a solid foundation of building web pages.
+This is an outline of topics, ideas, quips, and resources helpful in gaining a solid foundation of building web pages.
 
 ## Overall ideas
 
@@ -14,7 +14,11 @@ This is an outline of topics, ideas, and resources helpful in gaining a solid fo
 
 ## HTML
 
+- HTML is a living standard, not versioned https://html.spec.whatwg.org/multipage/
+  - HTML changes over time, this is good
+  - There is not a single HTML. HTML implementations differ between browsers and browser versions.
 - Use HTML to describe content, not to present it visually
+  - h1-h6 elements are for creating content hierarchy, not for visual sizing
 - Often when you have a CSS layout problem, you really have an HTML problem. Reconsider your HTML before adding more CSS.
 - Don't use `div` for buttons. If it's a link, use an `a` if it's not a link, use a `button` https://css-tricks.com/use-button-element/
 - Frameworks and libraries cannot give you anything more than browsers offer. At the end of the day, it all gets compiled to browser HTML.
@@ -26,6 +30,9 @@ This is an outline of topics, ideas, and resources helpful in gaining a solid fo
 
 ## CSS
 
+- CSS is a living standard, not versioned https://www.w3.org/Style/CSS/specs.en.html
+  - CSS changes over time, this is good
+  - There is not a single CSS. CSS implementations differ between browsers and browser versions.
 - Learn and understand why the popular [Peter Griffin CSS meme](https://2.bp.blogspot.com/-41v6n3Vaf5s/UeRN_XJ0keI/AAAAAAAAN2Y/YxIHhddGiaw/s1600/css.gif) is nonsense. CSS only does what you tell it to do, every property and value has a specific effect.
 - Frameworks and libraries cannot give you anything more than browsers offer. At the end of the day, it all gets compiled to browser CSS.
 
@@ -44,6 +51,9 @@ This is an outline of topics, ideas, and resources helpful in gaining a solid fo
   
 ## JavaScript
 
+- JavaScript is a living standard https://github.com/tc39
+  - JS changes over time, this is good
+  - There is not a single JS. JS implementations differ between browsers, engines, browser versions, and engine versions
 - Frameworks and libraries cannot give you anything more than browsers offer. At the end of the day, it all gets compiled to browser JS.
 - Learn and understand DOM Scripting https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
 
