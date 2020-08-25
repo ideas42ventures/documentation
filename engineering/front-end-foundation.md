@@ -26,6 +26,7 @@ This is an outline of topics, ideas, and resources helpful in gaining a solid fo
 
 ## CSS
 
+- Learn and understand why the popular [Peter Griffin CSS meme](https://2.bp.blogspot.com/-41v6n3Vaf5s/UeRN_XJ0keI/AAAAAAAAN2Y/YxIHhddGiaw/s1600/css.gif) is nonsense. CSS only does what you tell it to do, every property and value has a specific effect.
 - Frameworks and libraries cannot give you anything more than browsers offer. At the end of the day, it all gets compiled to browser CSS.
 
 ### Layout
@@ -49,3 +50,13 @@ This is an outline of topics, ideas, and resources helpful in gaining a solid fo
 #### Resources
 
 - https://domscripting.com/book (This is old, but still very recommended)
+
+## Images
+- Learn and understand raster vs vector graphics and when to use each
+- Learn and understand the differences between; jpeg, gif, png, svg, webp, et al
+- Learn and understand optimization techniques for each of those formats
+
+#### Resources
+- https://tinypng.com/
+- https://squoosh.app/
+- https://abookapart.com/products/practical-svg
