@@ -1,9 +1,14 @@
 # Front-end Foundation
 
-This is an outline of topics, ideas, quips, and resources helpful in gaining a solid foundation of building web pages.
+This is an outline of topics, ideas, quips, and resources helpful in gaining a solid foundation of building web pages. Everything in this document is in service of building products that are acessible and usable to as many people as possible.
 
 ## Overall ideas
 
+- Understand that the Web is its own medium with its own materials
+  - https://frankchimero.com/blog/2013/what-screens-want/
+  - https://frankchimero.com/blog/2015/the-webs-grain/
+  - https://alistapart.com/article/the-web-aesthetic/
+  - https://alistapart.com/article/material-honesty-on-the-web/
 - Learn and understand what progressive enhancement is and isn't. We follow a progressive enhancement approach at The Studio as much as we possibly can.
   - https://alistapart.com/article/understandingprogressiveenhancement
   - https://adactio.com/journal/16404
