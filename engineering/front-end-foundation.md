@@ -1,6 +1,6 @@
 # Front-end Foundation
 
-This is an outline of topics, ideas, quips, and resources helpful in gaining a solid foundation of building web pages. Everything in this document is in service of building products that are acessible and usable to as many people as possible.
+This is an outline of topics, ideas, quips, and resources helpful in gaining a foundation for how we build web pages at The Studio. Everything in this document is in service of building products that are accessible and usable to as many people as possible.
 
 ## Overall ideas
 
