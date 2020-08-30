@@ -2,6 +2,9 @@
 
 Documentation about how we work at the Venture Studio and recommendations for building design and engineering practices for your company.
 
+## Just joining?
+Start at [Onboarding](/onboarding.md)
+
 ## Topic Areas
 
 - [Efforts](efforts): What we're working on
