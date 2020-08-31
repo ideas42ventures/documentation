@@ -23,7 +23,7 @@ Your focus for the first day is to get set up with various [internal tool](/inte
   - You can use an existing personal account for this. It's most helpful to authenticate with your GitHub account
   - It does not need to be a new account with ideas42ventures.com email address
  5. **Slack**. Everyone with an ideas42ventures.com account can join
-   - Go do https://join.slack.com/t/ideas42ventures/signup Be sure you use your ideas42ventures.com email address
+   - Go to https://join.slack.com/t/ideas42ventures/signup Be sure you use your ideas42ventures.com email address
    - Once you have access, say hello in the General channel (it will be quiet. As of this writing, there's only one member)
  
 ### Process
