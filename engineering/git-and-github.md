@@ -46,8 +46,8 @@ Pull requests are how we make changes to codebases. They're also a way to leave 
 - Only use the squash commit strategy in GitHub (this will be the setting for the repo)
   - Clean up the squashed commit message. It should only contain pertinent information about the final changeset and should be written in the same style as commit messages; commit is the subject and is doing things in the future tense
   - Use as much space as you need in the message, but make the first line 50 characters or less, then add a blank line and continue writing from there. GitHub adds a nice tap-to-expand for this
-- Delete branches after they've been merged to `main`. We have this set to automattic on most repos
-- Delete stale branches. We will do periodic cleanups and ask if you still need branches
+- Delete branches after they've been merged to `main`. We have this set to automatic on most repos
+- Delete stale branches. If you open a pull request and close it without merge, delete the branch. We will do periodic cleanups and ask if you still need branches.
 
 ## Code Reviews
 
