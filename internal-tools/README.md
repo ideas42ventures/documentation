@@ -15,7 +15,7 @@ Software we use to do work.
 - Admins; Marc and Tyler
 - Everyone with an ideas42ventures.com account can join
 - Go to https://join.slack.com/t/ideas42ventures/signup Be sure you use your ideas42ventures.com email address
-- Once you have access, say hello in the General channel (it will be quiet. As of this writing, there's only one member)
+- Once you have access, say hello in the General channel
 
 ### Slack etiquette
 - **Use public channels**: Not direct messages for most all communication. If you're asking a question or discussing work topics, there's a good chance that other team members have or will have the same question and/or benefit from the conversation in the future.
